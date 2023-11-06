@@ -11,5 +11,6 @@ export default function pagesbeshir() {
       <p> gnochi al pesto </p>
       <p> salmone con patate e limone </p>
       <p> tiramisu </p>
+      <p> utilizando git rebase -i HEAD~4 ho visto gli ultimi 4 commit poi sostituendo pick con squash per ogni commit ho potuto unirli insieme utilizando git rebase</p>
     );
   }
