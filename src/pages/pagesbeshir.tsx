@@ -8,6 +8,8 @@ export default function pagesbeshir() {
         <p> c'è un secondo file pages beshir con il resto delle soluzioni si trova in src/components</p>
       <h1>kareem beshir</h1>
       <p> es 3 punto 6 ho usato git rebase ma non sono sicuro sia giusto</p>
+      <p> es 11 punto 1 si puo interompere il lavoro tramite stach e branch switching si puo ripendere a lavorarci tramite i comandi git checkout nome-branch git stash apply </p>
+
 
       <p> nuvole di drago </p>
       <p> gnochi al pesto </p>
