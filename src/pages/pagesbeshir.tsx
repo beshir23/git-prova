@@ -17,5 +17,7 @@ export default function pagesbeshir() {
       <p> utilizando git reset si puo tornare a un commit precedente </p>
       <p> oppure ho la delorian</p>
 
+      <p> Angular è il framework più bello del mondo </p>
+
     );
   }
