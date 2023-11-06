@@ -5,6 +5,7 @@ export default function pagesbeshir() {
   }
   export default function pagesbeshir() {
     return (
+        <p> c'è un secondo file pages beshir con il resto delle soluzioni si trova in src/components</p>
       <h1>kareem beshir</h1>
       <p> es 3 punto 6 ho usato git rebase ma non sono sicuro sia giusto</p>
 
